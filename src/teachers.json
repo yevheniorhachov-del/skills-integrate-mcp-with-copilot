@@ -1,0 +1,7 @@
+{
+  "teachers": {
+    "mrsmith": "password123",
+    "msjones": "secure456",
+    "mrwilson": "teach789"
+  }
+}
